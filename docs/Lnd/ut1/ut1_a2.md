@@ -24,7 +24,7 @@ Exiten varias app que perimiten el uso de Markdown y por los editores específic
 
 ### 4. ¿Cuáles son las etiquetas o símbolos más comunes que se utilizan en Markdown para dar formato a un texto?Proporciona ejemplos prácticos de: 
 
-
+* [enlace a lista](./Lista.md)
 
 ### 5. ¿Cómo se puede visualizar y convertir un archivo escrito en Markdown a otros formatos, como HTML o PDF? Busca herramientas o aplicaciones que permitan convertir Markdown a otros formatos, y explica cómo funcionan.
 
